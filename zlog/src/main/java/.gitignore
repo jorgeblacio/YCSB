@@ -1,0 +1,6 @@
+native/org_*.h
+libzlogjni.so*
+javadoc/
+test-libs/
+zlog-test.jar
+zlog.jar
